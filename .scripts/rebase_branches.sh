@@ -1,4 +1,5 @@
 #!/bin/bash
+# author: https://github.com/danilyanich
 
 set -euxa pipefail
 
